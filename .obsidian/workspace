@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "aa65679ce8a50e51",
+    "type": "split",
+    "children": [
+      {
+        "id": "538e826357ea6d74",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "《销售人生》/销售技能篇/要想销售成功我们需要具备哪些技能？.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8bcb0f37d0f2a2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6200086e43ea2499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc40369a44370c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0fc9c6f27834772",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#A类客户"
+              }
+            }
+          },
+          {
+            "id": "2f86d2717cced93c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 494
+  },
+  "right": {
+    "id": "60120c899fde840b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8efbcefa32f6181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a980dab55d5269",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "《销售人生》/销售技能篇/要想销售成功我们需要具备哪些技能？.md"
+              }
+            }
+          },
+          {
+            "id": "02e16be28034822a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c1b6198f75945c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "《销售人生》/销售技能篇/要想销售成功我们需要具备哪些技能？.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "《销售人生》/销售技能篇/要想销售成功我们需要具备哪些技能？.md",
+    "《销售人生》/销售技能篇/成交能力/提高成交能力的三种方法.md",
+    "《销售人生》/销售基础篇/Untitled 1.md",
+    "Untitled.md",
+    "《销售人生》/销售基础篇/Untitled.md",
+    "《销售人生》/销售技能篇/成交能力/Untitled.md",
+    "《销售人生》/销售技能篇/成交能力/达成“成交”的三个阶段.md",
+    "《销售人生》/销售技能篇/成交能力/要想获得客户承诺：首先为客户创造价值，即赢得向他们提出要求的权利.md",
+    "《销售人生》/销售技能篇/成交能力/销售互动过程中的“价值链”.md",
+    "《销售人生》/销售技能篇/成交能力/“成交”所必须获得的十项承诺.md"
+  ]
+}
