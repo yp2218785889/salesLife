@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "《销售人生》/阿里销冠/客户拜访：与客户更高效的打交道/19成功预约客户的6个技巧.md",
+            "file": "《销售人生》/阿里销冠/谈判攻略/23一场高效的谈判只需要60分钟.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "客户不会"
+                "query": "客户不会",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -56,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 395
   },
   "right": {
     "id": "60120c899fde840b",
@@ -72,7 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "《销售人生》/阿里销冠/客户拜访：与客户更高效的打交道/19成功预约客户的6个技巧.md"
+                "file": "《销售人生》/阿里销冠/谈判攻略/23一场高效的谈判只需要60分钟.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -90,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《销售人生》/阿里销冠/客户拜访：与客户更高效的打交道/19成功预约客户的6个技巧.md"
+                "file": "《销售人生》/阿里销冠/谈判攻略/23一场高效的谈判只需要60分钟.md"
               }
             }
           }
@@ -102,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "《销售人生》/阿里销冠/谈判攻略/Untitled.md",
+    "《销售人生》/阿里销冠/Untitled.md",
+    "《销售人生》/阿里销冠/21与客户面对面沟通时，如何看透客户的需求和购买动机？.md",
     "《销售人生》/阿里销冠/客户拜访：与客户更高效的打交道/Untitled.md",
     "《销售人生》/阿里销冠/01从职业的角度，销售工作能为我们带来什么？.md",
     "《销售人生》/阿里销冠/销售工具/17销售工具的构成和作用.md",
     "《销售人生》/阿里销冠/销售工具/Untitled.md",
     "《销售人生》/阿里销冠/如何开发精准客户/Untitled.md",
     "《销售人生》/阿里销冠/如何开发精准客户/15开发精准客户技巧三：客户转介绍.md",
-    "《销售人生》/阿里销冠/如何开发精准客户/12销售的第一步是开发精准客户.md",
-    "《销售人生》/阿里销冠/如何开发精准客户/14开发精准客户技巧二：从竞争对手里“抢”客户.md",
-    "《销售人生》/阿里销冠/如何开发精准客户/13开发精准客户技巧一：快速判断当前的人是不是KP.md",
-    "《销售人生》/阿里销冠/目标分解/Untitled.md"
+    "《销售人生》/阿里销冠/如何开发精准客户/12销售的第一步是开发精准客户.md"
   ]
 }
